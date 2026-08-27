@@ -30,13 +30,6 @@ This is the place to catch the first sparks, follow the process, and stay close 
 
 The first look at the project. Press play, then come say hello in the community.
 
-## The visual pulse
-
-The website background is built around four different energy trails, each with its own color and movement, circling the **F4** mark. It is bright, kinetic, and a little unfinished on purpose: a visual snapshot of a project still coming into motion.
-
-![The Fury Four energy background](assets/fury-four-background.svg)
-
-The reusable background artwork lives at [`assets/fury-four-background.svg`](assets/fury-four-background.svg).
 
 ## A little look behind the curtain
 
