@@ -1,0 +1,11 @@
+# Create and switch to a new branch named 'fury-four'
+git checkout -b fury-four
+
+# Add your changes (index.html, style.css)
+git add .
+
+# Commit your changes
+git commit -m "Add Fury Four channel single-page layout"
+
+# Push the new branch to GitHub (or your remote repository)
+git push -u origin fury-four
